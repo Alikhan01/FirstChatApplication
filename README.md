@@ -1,2 +1,3 @@
 # FirstChatApplication
 Chat application, used SignalR, Websocket, C#, asp.net MVC, Owin, Hub... 
+It is like a chatroom, or atleast 2 person chat as in FB, whatsapp, skype ETC
